@@ -1,0 +1,6 @@
+@startuml
+class Ejemplo {
+  +atributo1
+  +metodo1()
+}
+@enduml
